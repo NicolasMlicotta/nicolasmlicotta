@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolás Mlicotta</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
-- 🔭 I’m currently working on [App Mi Ruta](https://github.com/NicolasMlicotta/Mi-Ruta-App)
+- 🔭 I’m currently working on [Mi Ruta](https://github.com/NicolasMlicotta/Mi-Ruta-App)
 
 - 🌱 I’m currently learning **TypeScript**
 
