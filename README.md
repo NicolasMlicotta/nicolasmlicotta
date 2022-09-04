@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **React, React Native**
+- 💬 Ask me about **React, React Native, Firebase, Data Analytics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
