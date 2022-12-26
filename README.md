@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Mi Ruta](https://github.com/NicolasMlicotta/Mi-Ruta-App)
 
-- 🌱 I’m currently learning **TypeScript**
-
 - 💬 Ask me about **React, React Native, Firebase, Power Bi, Data Analytics**
 
 <h3 align="left">Connect with me:</h3>
