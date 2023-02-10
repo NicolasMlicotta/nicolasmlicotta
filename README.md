@@ -2,8 +2,7 @@
 <h3 align="center">Industrial Engineer living in Argentina </h3>
 
 - 🔭 I’m currently working at Cervecería y Maltería Quilmes (AB InBev)
-
-- 💬 Ask me about ** React, React Native, Power Bi, SQL, Data Analytics**
+- 💬 Ask me about  React, React Native, Power Bi, SQL, Data Analytics
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
