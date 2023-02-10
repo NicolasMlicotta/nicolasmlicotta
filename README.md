@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nicolás Mlicotta</h1>
-<h3 align="center">A passionate developer from Argentina</h3>
+<h3 align="center"Industrial Engineer living in Argentina </h3>
 
-- 🔭 I’m currently working on [Mi Ruta](https://github.com/NicolasMlicotta/Mi-Ruta-App)
+- 🔭 I’m currently working at Cervecería y Maltería Quilmes (AB InBev)
 
-- 💬 Ask me about **React, React Native, Firebase, Power Bi, Data Analytics**
+- 💬 Ask me about ** React, React Native, Power Bi, SQL, Data Analytics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
