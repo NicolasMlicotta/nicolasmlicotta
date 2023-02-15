@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolás Mlicotta</h1>
-<h3 align="center">Industrial Engineer living in Argentina </h3>
+<h3 align="center">Industrial Engineer and Full Stack Developer </h3>
 
 - 🔭 I’m currently working at Cervecería y Maltería Quilmes (AB InBev)
 - 💬 Ask me about  React, React Native, Power Bi, SQL, Data Analytics
