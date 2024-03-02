@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolás Mlicotta</h1>
 <h3 align="center">Industrial Engineer & Full Stack Developer </h3>
 
-- 🔭 I’m currently working at Cervecería y Maltería Quilmes (AB InBev)
+- 🔭 I’m currently working as a Product Owner at Cervecería y Maltería Quilmes (AB InBev)
 - 💬 Ask me about  React, React Native, Power Bi, Data Analytics
 
 <h3 align="left">Connect with me:</h3>
