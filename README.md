@@ -2,7 +2,7 @@
 <h3 align="center">Industrial Engineer & Full Stack Developer </h3>
 
 - 🔭 I’m currently working as a Product Owner at Cervecería y Maltería Quilmes (AB InBev)
-- 💬 Ask me about  React, React Native, Power Bi, Data Analytics, SCRUM
+- 💬 Ask me about  Data Science, Python, Power Bi, Data Analytics, SCRUM
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
