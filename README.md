@@ -32,7 +32,6 @@
   <!-- Scientific stack -->
   <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"  alt="NumPy" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"  alt="Pandas" width="40" height="40"/></a>
-  <a href="https://scipy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg"  alt="SciPy" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"  alt="Scikit-learn" width="40" height="40"/></a>
   
   <!-- Deep Learning -->
@@ -40,11 +39,9 @@
   <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"  alt="PyTorch" width="40" height="40"/></a>
   
   <!-- Databases -->
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"  alt="PostgreSQL" width="40" height="40"/></a>
   
   <!-- Cloud / Dev & MLOps -->
-  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"  alt="AWS" width="40" height="40"/></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"  alt="Docker" width="40" height="40"/></a>
   <a href="https://airflow.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg"  alt="Apache Airflow" width="40" height="40"/></a>
   
