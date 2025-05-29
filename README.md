@@ -1,20 +1,59 @@
-<h1 align="center">Hi 👋, I'm Nicolás Mlicotta</h1>
-<h3 align="center">Industrial Engineer & Full Stack Developer </h3>
+<h1 align="center">Hi 👋, I'm <strong>Nicolás Mlicotta</strong></h1>
+<h3 align="center">Industrial Engineer | Product Owner (B2B Digital Products) | M.Sc. Data Science Candidate | Full-Stack Developer </h3>
 
-- 🔭 I’m currently working as a Product Owner at Cervecería y Maltería Quilmes (AB InBev)
-- 💬 Ask me about  Data Science, Python, Power Bi, Data Analytics, SCRUM
+- 🔭 &nbsp;Currently leading B2B e-commerce and data-driven initiatives as a **Product Owner at Cervecería y Maltería Quilmes (AB InBev)**  
+- 🎓 &nbsp;**M.Sc. Data Science candidate at ITBA** — researching ML-based optimization and analytics  
+- 💡 &nbsp;Passionate about building products that blend **Data Science, Analytics & Agile delivery**  
+- 💬 &nbsp;Ask me about **Python • Data Analytics • Power BI • Machine Learning • SCRUM & Agile**  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nicolasmateomlicotta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolasmateomlicotta" height="30" width="40" /></a>
-<a href="https://instagram.com/nicomlicotta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicomlicotta" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/nicolasmateomlicotta" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn" width="40" height="30"/>
+  </a>
+  <a href="https://instagram.com/nicomlicotta" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         alt="Instagram" width="40" height="30"/>
+  </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
+---
+<h3 align="left">Data Science &amp; Analytics Stack</h3>
+
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
+  <!-- Core -->
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  alt="Python" width="40" height="40"/></a>
+  <a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"  alt="R" width="40" height="40"/></a>
+  <a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"  alt="Jupyter" width="40" height="40"/></a>
+  
+  <!-- Scientific stack -->
+  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"  alt="NumPy" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"  alt="Pandas" width="40" height="40"/></a>
+  <a href="https://scipy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg"  alt="SciPy" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"  alt="Scikit-learn" width="40" height="40"/></a>
+  
+  <!-- Deep Learning -->
+  <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"  alt="TensorFlow" width="40" height="40"/></a>
+  <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"  alt="PyTorch" width="40" height="40"/></a>
+  
+  <!-- Databases -->
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"  alt="PostgreSQL" width="40" height="40"/></a>
+  
+  <!-- Cloud / Dev & MLOps -->
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"  alt="AWS" width="40" height="40"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"  alt="Docker" width="40" height="40"/></a>
+  <a href="https://airflow.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg"  alt="Apache Airflow" width="40" height="40"/></a>
+  
+  <!-- BI -->
+  <a href="https://powerbi.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/></a>
+</p>
+
+---
+
+<p align="center">
+  <em>“Turning data-driven insights into meaningful products.”</em>
+</p>
