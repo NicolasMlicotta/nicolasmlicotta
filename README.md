@@ -50,7 +50,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <em>“Turning data-driven insights into meaningful products.”</em>
-</p>
