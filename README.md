@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <strong>Nicolás Mlicotta</strong></h1>
-<h3 align="center">Industrial Engineer | Product Owner (B2B Digital Products) | M.Sc. Data Science Candidate | Full-Stack Developer </h3>
+<h3 align="center">Industrial Engineer | Product Owner (B2B Digital Products) | M.Sc. Data Science Candidate </h3>
 
 - 🔭 &nbsp;Currently leading B2B e-commerce and data-driven initiatives as a **Product Owner at Cervecería y Maltería Quilmes (AB InBev)**  
 - 🎓 &nbsp;**M.Sc. Data Science candidate at ITBA** — researching ML-based optimization and analytics  
